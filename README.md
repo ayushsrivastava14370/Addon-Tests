@@ -1,4 +1,4 @@
-This repository is no longer being actively maintained, and the content has
+This repository is no longer being actively maintained, and the content has AN AMAZING WORK
 been removed. Please use the repository history to access the previous content.
 We are not currently executing or developing tests for add-ons in this
 repository. You can find the new UI test suite for add-ons that in the
